@@ -1,0 +1,11 @@
+{
+  "name": "belajar-git",
+  "version": "1.0.0",
+  "description": "ini project untuk belajar git command",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC"
+}
